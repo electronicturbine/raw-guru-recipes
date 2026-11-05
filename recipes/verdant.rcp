@@ -1,0 +1,10 @@
+name = Verdant
+author = RAW Guru
+version = 1
+wbGain = 0.99, 1.02
+colorMatrix = 1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+hsl = 120.0:-6.0,1.18,0.98,50.0; 210.0:0.0,1.12,0.95,30.0
+skinProtect = 0.4
+lut = none
+grain = 0.0
+vignette = 0.1

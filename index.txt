@@ -1,0 +1,5 @@
+# id | name | author | path | stars
+neutral | Neutral | RAW Guru | recipes/neutral.rcp | 0
+morning-haze | Morning Haze | RAW Guru | recipes/morning-haze.rcp | 0
+city-noir | City Noir | RAW Guru | recipes/city-noir.rcp | 0
+verdant | Verdant | RAW Guru | recipes/verdant.rcp | 0

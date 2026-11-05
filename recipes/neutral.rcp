@@ -1,0 +1,9 @@
+name = Neutral
+author = RAW Guru
+version = 1
+wbGain = 1.0, 1.0
+colorMatrix = 1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+skinProtect = 0.0
+lut = none
+grain = 0.0
+vignette = 0.0

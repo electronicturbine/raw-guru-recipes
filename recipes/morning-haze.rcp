@@ -1,0 +1,11 @@
+name = Morning Haze
+author = RAW Guru
+version = 1
+wbGain = 1.04, 0.98
+colorMatrix = 1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+tone = 0.0,0.06; 0.25,0.28; 0.75,0.78; 1.0,0.96
+hsl = 210.0:0.0,0.88,1.0,30.0; 45.0:0.0,1.08,1.03,30.0
+skinProtect = 0.6
+lut = none
+grain = 0.04
+vignette = 0.12
