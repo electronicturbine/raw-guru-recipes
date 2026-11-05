@@ -10,3 +10,4 @@ cinema-teal | Cinema Teal | RAW Guru | recipes/cinema-teal.rcp | 0
 silver-classic | Silver Classic | RAW Guru | recipes/silver-classic.rcp | 0
 faded-film | Faded Film | RAW Guru | recipes/faded-film.rcp | 0
 blue-hour | Blue Hour | RAW Guru | recipes/blue-hour.rcp | 0
+flat-log | Flat Log | RAW Guru | recipes/flat-log.rcp | 0
