@@ -3,3 +3,10 @@ neutral | Neutral | RAW Guru | recipes/neutral.rcp | 0
 morning-haze | Morning Haze | RAW Guru | recipes/morning-haze.rcp | 0
 city-noir | City Noir | RAW Guru | recipes/city-noir.rcp | 0
 verdant | Verdant | RAW Guru | recipes/verdant.rcp | 0
+portrait-gold | Portrait Gold | RAW Guru | recipes/portrait-gold.rcp | 0
+chrome-velvet | Chrome Velvet | RAW Guru | recipes/chrome-velvet.rcp | 0
+rangefinder | Rangefinder | RAW Guru | recipes/rangefinder.rcp | 0
+cinema-teal | Cinema Teal | RAW Guru | recipes/cinema-teal.rcp | 0
+silver-classic | Silver Classic | RAW Guru | recipes/silver-classic.rcp | 0
+faded-film | Faded Film | RAW Guru | recipes/faded-film.rcp | 0
+blue-hour | Blue Hour | RAW Guru | recipes/blue-hour.rcp | 0

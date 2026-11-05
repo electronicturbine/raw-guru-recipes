@@ -1,0 +1,11 @@
+name = Rangefinder
+author = RAW Guru
+version = 1
+wbGain = 1.03, 0.99
+colorMatrix = 1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+tone = 0.0,0.0; 0.2,0.14; 0.5,0.5; 0.8,0.85; 1.0,0.99
+hsl = 10.0:0.0,1.08,1.0,30.0; 210.0:0.0,1.06,0.97,40.0
+skinProtect = 0.6
+lut = none
+grain = 0.0
+vignette = 0.16

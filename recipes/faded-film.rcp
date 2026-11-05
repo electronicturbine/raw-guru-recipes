@@ -1,0 +1,11 @@
+name = Faded Film
+author = RAW Guru
+version = 1
+wbGain = 1.04, 0.97
+colorMatrix = 1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+tone = 0.0,0.1; 0.5,0.52; 1.0,0.92
+hsl = 120.0:0.0,0.82,1.0,50.0; 210.0:0.0,0.84,1.0,45.0; 30.0:0.0,0.92,1.03,35.0
+skinProtect = 0.5
+lut = none
+grain = 0.07
+vignette = 0.22

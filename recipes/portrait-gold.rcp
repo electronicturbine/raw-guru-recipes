@@ -1,0 +1,11 @@
+name = Portrait Gold
+author = RAW Guru
+version = 1
+wbGain = 1.05, 0.96
+colorMatrix = 1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+tone = 0.0,0.04; 0.25,0.24; 0.5,0.52; 0.75,0.8; 1.0,0.97
+hsl = 30.0:0.0,1.06,1.02,35.0; 120.0:0.0,0.9,1.0,45.0
+skinProtect = 0.8
+lut = none
+grain = 0.03
+vignette = 0.0

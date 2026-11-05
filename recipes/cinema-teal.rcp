@@ -1,0 +1,11 @@
+name = Cinema Teal
+author = RAW Guru
+version = 1
+wbGain = 1.02, 1.0
+colorMatrix = 1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+tone = 0.0,0.03; 0.25,0.2; 0.5,0.48; 0.75,0.82; 1.0,0.98
+hsl = 200.0:10.0,1.2,0.92,55.0; 30.0:0.0,1.14,1.03,35.0
+skinProtect = 0.7
+lut = none
+grain = 0.0
+vignette = 0.2

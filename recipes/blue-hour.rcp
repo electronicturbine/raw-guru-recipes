@@ -1,0 +1,11 @@
+name = Blue Hour
+author = RAW Guru
+version = 1
+wbGain = 0.96, 1.06
+colorMatrix = 1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+tone = 0.0,0.02; 0.3,0.22; 0.5,0.46; 0.75,0.78; 1.0,0.95
+hsl = 220.0:0.0,1.18,0.95,55.0; 30.0:0.0,1.05,1.0,30.0
+skinProtect = 0.6
+lut = none
+grain = 0.0
+vignette = 0.24
